@@ -1,36 +1,50 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "WORK EXPERIENCE"
+title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Software Engineering
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## WORK EXPERIENCE
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+### PT. Eiron Jaya Sejati
 
-## Features
+Full Stack Engineer for Okt 2023 until Now
 
-Here are certain features of this site.
+I developed a system called **SIDMS** (Subsurface Integrated Data Management System) aimed at managing Geothermal data involving Geophysics, Geology, and Reservoir aspects. The system is designed to enable effective visualization and analysis of relevant field data, to support optimal decision-making.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+### PT Prima Sintesa Indonesia
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Be Fullstack Developer for January 2022 – May 2023.
+
+With the successful implementation of DevOps practices on the SASS e-commerce system, the company is able to manage customer orders for its services more efficiently. Previously, the deployment process took a day, but after the implementation of DevOps, the company is now able to complete deployments in less than an hour. With this improvement, the company can address the needs of dozens of clients in a single day, improving responsiveness and operational effectiveness.With the successful implementation of DevOps practices on the SASS e-commerce system, the company is able to manage customer orders for its services more efficiently. Previously, the deployment process took a day, but after the implementation of DevOps, the company is now able to complete deployments in less than an hour. With this improvement, the company can address the needs of dozens of clients in a single day, improving responsiveness and operational effectiveness.
+
+### Paragraphs
+
+Be Web Developer for January 2022 – January 2023
+
+As a web developer, I am responsible for the development of a journal publication management website. My task involves both Frontend and Backend aspects, with the application of PHP Laravel technology. With a focus on the Frontend, I ensure that the user interface of the website is well-designed, intuitive, and responsive. On the Backend, I utilize the power of PHP Laravel to implement business logic, database management, and ensure optimal performance. With this approach, I strive to create a seamless and efficient user experience and ensure the overall functionality of the website runs well.
+
+- Building a website with [Laravel](https://theparagraphs.org/)
+- Do monitoring and debugging on a running system
+
+## EDUCATION
+
+### Medan State University
+
+Bachelor of Computer Science - July 2019 – Present - GPA: 3.72
+
+- Participated in developing the website for the Computer Science department, in which I played the role of frontend dev.
+- Building an IT community for learning.
+- Developing an Information System for the Spread of DHF in North Sumatra as a thesis. [Github](https://github.com/wahyunf354/sig-dbd-sumut)
+
+### Altera Academy
+
+Fullstack Engineering - August 2021 – January 2022
+I took part in a program from the Independent Campus with Altera Academy. Here I will learn about the backend with Golang and frontend with React js.
+
+My Final Project is LSM website. [Backend Golang](https://github.com/Kel-21-Alta/backend-profcourse) and [Frontend React JS](https://github.com/Kel-21-Alta/ProfCourse)
