@@ -59,5 +59,5 @@ SIDMS stands as a testament to the power of technology in addressing complex dat
 Image 1. Visualisasi 3D
 ![something](@assets/images/sidms/pic-2.png)
 Image 2. Visualisasi data
-![something](@assets/images/simds/pic-3.png)
+![something](@assets/images/sidms/pic-3.png)
 Image 3. Management Data
