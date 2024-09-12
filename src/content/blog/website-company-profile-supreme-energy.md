@@ -34,15 +34,11 @@ Supreme Energy, a leading geothermal energy company, proudly presents its compre
 
 - **Enhanced Publication Listing:** Utilize filters to effortlessly navigate and access articles based on specific criteria.
 
-- **Interactive Contact Form:** Engage with Supreme Energy by submitting feedback and inquiries directly through the website.
-
 - **SEO Optimization:** Enhance website visibility by optimizing page titles, meta descriptions, and image alt tags.
 
 - **Accessibility Compliance:** Ensure the website adheres to accessibility guidelines to cater to a diverse audience.
 
 - **Mobile Responsiveness:** Optimize the website for optimal viewing and navigation across various screen sizes.
-
-- **Performance Optimization:** Implement performance optimization techniques to ensure a fast and responsive user experience.
 
 - **Regular Content Updates:** Regularly publish fresh and engaging content to keep visitors coming back.
 
