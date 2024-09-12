@@ -4,7 +4,7 @@ pubDatetime: 2024-05-17T15:22:00Z
 modDatetime: 2024-05-17T09:12:47.400Z
 title: Sistem Pendukung Keputusan Penerima Bantuan Sosial
 slug: sistem-pendukung-keputusan-penerima-bantuan-sosial
-featured: true
+featured: false
 draft: false
 tags:
   - portofolio

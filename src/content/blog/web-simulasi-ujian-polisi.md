@@ -4,7 +4,7 @@ pubDatetime: 2024-05-17T15:22:00Z
 modDatetime: 2024-05-17T09:12:47.400Z
 title: Simulasi Ujian Polisi
 slug: simulasi-ujian-polisi
-featured: true
+featured: false
 draft: false
 tags:
   - portofolio
