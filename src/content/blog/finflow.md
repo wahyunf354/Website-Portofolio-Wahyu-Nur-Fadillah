@@ -1,7 +1,7 @@
 ---
 author: Wahyu Nur Fadillah
-pubDatetime: 2025-12-26T15:00:00Z
-modDatetime: 2025-12-26T15:00:00Z
+pubDatetime: 2025-12-26T00:00:00Z
+modDatetime: 2025-12-26T00:00:00Z
 title: FinFlow - AI Finance Tracker
 slug: finflow-ai-finance-tracker
 featured: true
@@ -17,7 +17,7 @@ description: Kelola keuangan pribadi dengan mudah menggunakan bantuan AI. FinFlo
 
 Apakah kamu sering merasa kesulitan melacak pengeluaran harian? Atau malas mencatat transaksi satu per satu secara manual di aplikasi yang rumit? Kamu tidak sendirian. Mengelola keuangan pribadi memang seringkali menjadi tugas yang membosankan.
 
-Tapi, bagaimana jika kamu punya asisten pribadi yang siap mencatat semua pengeluaranmu hanya dengan *chatting* layaknya teman?
+Tapi, bagaimana jika kamu punya asisten pribadi yang siap mencatat semua pengeluaranmu hanya dengan _chatting_ layaknya teman?
 
 Perkenalkan **FinFlow** (FinFlow AI Finance Tracker), sebuah web app inovatif yang saya buat untuk mengubah cara kamu mengatur keuangan menjadi lebih mudah, cepat, dan cerdas.
 
@@ -30,29 +30,34 @@ FinFlow adalah aplikasi pencatat keuangan berbasis web yang memanfaatkan kecerda
 ## Fitur Unggulan
 
 ### 1. 🤖 AI Assistant Chat (Pencatatan Secepat Kilat)
-Di halaman *Chat*, kamu akan disambut oleh Asisten FinFlow. Cukup ketik *"Habis beli skincare 130 ribu"* atau *"Bayar parkir 3 ribu"*, dan AI akan otomatis mengenali itu sebagai pengeluaran, menyimpannya, dan mengategorikannya.
-*   **Voice & Image Support:** Malas ngetik? Gunakan fitur suara atau foto struk belanjamu!
+
+Di halaman _Chat_, kamu akan disambut oleh Asisten FinFlow. Cukup ketik _"Habis beli skincare 130 ribu"_ atau _"Bayar parkir 3 ribu"_, dan AI akan otomatis mengenali itu sebagai pengeluaran, menyimpannya, dan mengategorikannya.
+
+- **Voice & Image Support:** Malas ngetik? Gunakan fitur suara atau foto struk belanjamu!
 
 ![Chat Interface](@assets/images/finflow/chat_interface.png)
-*Tampilan chat dengan AI yang memudahkan input transaksi*
+_Tampilan chat dengan AI yang memudahkan input transaksi_
 
 ### 2. 📊 Financial Dashboard yang Bersih
+
 Halaman utama langsung menyajikan apa yang paling penting: **Total Balance**, **Income**, dan **Expenses**. Tanpa grafik yang membingungkan, kamu bisa langsung tahu posisi keuanganmu saat ini.
 
 ![Dashboard](@assets/images/finflow/dashboard.png)
-*Dashboard ringkasan keuangan yang bersih dan informatif*
+_Dashboard ringkasan keuangan yang bersih dan informatif_
 
 ### 3. 💰 Smart Budget dengan Peringatan Otomatis
+
 Takut boros di kategori tertentu? Fitur **Smart Budget** memantau pengeluaranmu. Kamu bisa melihat progress bar untuk setiap kategori. Jika pengeluaranmu melebihi budget, sistem akan memberitahumu secara visual.
 
 ![Smart Budget](@assets/images/finflow/smart_budget.png)
-*Fitur Smart Budget untuk mengontrol pengeluaran per kategori*
+_Fitur Smart Budget untuk mengontrol pengeluaran per kategori_
 
 ### 4. 📜 Riwayat Transaksi & Ekspor Laporan
+
 Semua transaksimu tercatat rapi di menu **Riwayat**. Butuh laporan untuk arsip? FinFlow menyediakan fitur **Export to XLS** (Excel) dan **PDF** hanya dengan satu klik.
 
 ![Transaction History](@assets/images/finflow/transaction_history.png)
-*Riwayat transaksi lengkap dengan opsi filter dan ekspor*
+_Riwayat transaksi lengkap dengan opsi filter dan ekspor_
 
 ## Kenapa Saya Membuat FinFlow?
 
