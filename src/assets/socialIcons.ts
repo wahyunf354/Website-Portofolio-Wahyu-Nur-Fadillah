@@ -213,8 +213,9 @@ const socialIcons = {
       stroke-linejoin="round"
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-      <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4z"></path>
-      <path d="M12 12c2.21 0 4 1.79 4 4s-1.79 4-4 4-4-1.79-4-4 1.79-4 4-4z"></path>
+      <rect x="4" y="4" width="16" height="16" rx="2"></rect>
+      <path d="M8 9h1l3 3l3 -3h1v6"></path>
+      <path d="M8 15v-6"></path>
     </svg>`,
 };
 
