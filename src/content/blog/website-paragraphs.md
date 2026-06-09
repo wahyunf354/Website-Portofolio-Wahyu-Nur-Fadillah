@@ -14,6 +14,8 @@ tags:
 description: Sebuah website publisher article & manuscript journal ilmiah.
 ---
 
+Paragrapsh merupakan sebuah platform penerbitan artikel dan manuskrip jurnal ilmiah yang dikembangkan oleh talenta lokal, dengan visi untuk mencapai dan memenuhi standar internasional.
+
 Website ini saya kembangkan bersama tim yang terdiri dari 2 orang, yang mana salah satunya adalah saya.
 Stack yang digunakan pada website tersebut adalah:
 
