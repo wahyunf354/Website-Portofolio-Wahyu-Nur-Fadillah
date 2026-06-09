@@ -64,20 +64,20 @@ Supreme Energy, a leading geothermal energy company, proudly presents its compre
 
 ## Gallery
 
-![something](@assets/images/supreme-compro/screencapture-supreme-ejs-co-id-2024-05-21-18_18_37.png)
+![Landing page website company profile Supreme Energy](@assets/images/supreme-compro/screencapture-supreme-ejs-co-id-2024-05-21-18_18_37.png)
 **Image 1. Halaman Landing Page:** A captivating landing page showcasing Supreme Energy's brand identity and core values.
 
-![something](@assets/images/supreme-compro/screencapture-supreme-ejs-co-id-en-assets-pt-supreme-energy-rantau-dedap-2024-05-21-18_20_38.png)
+![Halaman detail konten proyek geothermal Supreme Energy Rantau Dedap](@assets/images/supreme-compro/screencapture-supreme-ejs-co-id-en-assets-pt-supreme-energy-rantau-dedap-2024-05-21-18_20_38.png)
 **Image 2. Penampakan Detail Content:** A detailed view of a well-structured content page, highlighting Supreme Energy's commitment to sustainability.
 
-![something](@assets/images/supreme-compro/publication-list.png)
+![Halaman daftar publikasi dan berita Supreme Energy](@assets/images/supreme-compro/publication-list.png)
 **Image 3. Halaman List Publication Atau News:** An organized list of publications, enabling users to quickly find relevant content.
 
-![something](@assets/images/supreme-compro/cms-1.png)
+![Tampilan antarmuka CMS Supreme Energy](@assets/images/supreme-compro/cms-1.png)
 **Image 4. Halaman CMS:** A glimpse into the user-friendly CMS interface, allowing administrators to manage website content effectively.
 
-![something](@assets/images/supreme-compro/cms-3.png)
+![Halaman pembuatan konten dengan CKEditor di CMS Supreme Energy](@assets/images/supreme-compro/cms-3.png)
 **Image 5. Halaman Pembuatan Content:** A seamless content creation experience with the CKEditor WYSIWYG editor.
 
-![something](@assets/images/supreme-compro/cms-2.png)
+![Halaman manajemen konten berita di CMS Supreme Energy](@assets/images/supreme-compro/cms-2.png)
 **Image 6. Halaman Management Content News:** Efficient management of news content within the CMS.
