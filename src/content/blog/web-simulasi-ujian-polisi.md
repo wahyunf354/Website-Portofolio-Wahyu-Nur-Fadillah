@@ -40,5 +40,5 @@ Teknologi yang digunakan:
 
 ## Gallery
 
-![something](@assets/images/simulasi-ujian-polisi-1.png)
+![Landing page website Simulasi Ujian Polisi](@assets/images/simulasi-ujian-polisi-1.png)
 Image 1. Penampakan Landing Page

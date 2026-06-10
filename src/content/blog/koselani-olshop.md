@@ -10,10 +10,10 @@ tags:
   - portofolio
   - website
   - vuejs
-description: Sebuah website toko online fasion yang memiliki tampilan menarik
+description: Sebuah website toko online fashion yang memiliki tampilan menarik
 ---
 
-Sebuah website toko online fasion yang memiliki tampilan menarik dengan memiliki admin panel dan terintgrasi dengan payment gateway dan API ongkir. Stack yang digunakan pada website tersebut adalah:
+Sebuah website toko online fashion yang memiliki tampilan menarik dengan memiliki admin panel dan terintegrasi dengan payment gateway dan API ongkir. Stack yang digunakan pada website tersebut adalah:
 
 - [Nuxt JS](https://nuxt.com) sebagai Framework Frontend.
 - [Nest](https://nestjs.com) sebagai Framework Backend
@@ -27,7 +27,7 @@ Website ini dikembangkan oleh beberapa orang, dengan salah satunya adalah saya. 
 
 ## Gallery
 
-![something](@assets/images/koselani-1.png)
+![Landing page Koselani Online Shop](@assets/images/koselani-1.png)
 Image 1. Penampakan Landing Page
-![something](@assets/images/koselani-2.png)
+![Halaman tambah product di admin panel Koselani](@assets/images/koselani-2.png)
 Image 1. Halaman Tambah Product

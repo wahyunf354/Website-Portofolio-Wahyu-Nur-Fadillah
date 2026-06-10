@@ -62,11 +62,11 @@ Saya yakin bahwa website ini akan menjadi aset berharga bagi portofolio saya. We
 
 ## Gallery
 
-![something](@assets/images/spk-smart.png)
+![Dashboard Sistem Pendukung Keputusan Penerima Bantuan Sosial](@assets/images/spk-smart.png)
 Image 1. Halaman Dashboard
 
-![something](@assets/images/spk-smart-1.png)
+![Halaman manajemen data jemaat penerima bantuan sosial](@assets/images/spk-smart-1.png)
 Image 2. Halaman Management Data
 
-![something](@assets/images/spk-smart-2.png)
+![Halaman hasil perangkingan menggunakan metode SMART](@assets/images/spk-smart-2.png)
 Image 3. Halaman Hasil Metode Smart

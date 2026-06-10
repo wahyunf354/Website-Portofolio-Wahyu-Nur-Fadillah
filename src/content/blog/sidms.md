@@ -55,9 +55,9 @@ SIDMS stands as a testament to the power of technology in addressing complex dat
 
 ### Gallery:
 
-![something](@assets/images/sidms/pic-1.png)
+![Visualisasi 3D data geotermal di SIDMS](@assets/images/sidms/pic-1.png)
 Image 1. Visualisasi 3D
-![something](@assets/images/sidms/pic-2.png)
+![Visualisasi data subsurface di SIDMS](@assets/images/sidms/pic-2.png)
 Image 2. Visualisasi data
-![something](@assets/images/sidms/pic-3.png)
+![Halaman manajemen data SIDMS](@assets/images/sidms/pic-3.png)
 Image 3. Management Data

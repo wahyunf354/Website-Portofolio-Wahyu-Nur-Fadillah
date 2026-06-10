@@ -14,7 +14,7 @@ tags:
 description: Sebuah website publisher article & manuscript journal ilmiah.
 ---
 
-Paragrapsh merupakan sebuah platform penerbitan artikel dan manuskrip jurnal ilmiah yang dikembangkan oleh talenta lokal, dengan visi untuk mencapai dan memenuhi standar internasional.
+Paragraphs merupakan sebuah platform penerbitan artikel dan manuskrip jurnal ilmiah yang dikembangkan oleh talenta lokal, dengan visi untuk mencapai dan memenuhi standar internasional.
 
 Website ini saya kembangkan bersama tim yang terdiri dari 2 orang, yang mana salah satunya adalah saya.
 Stack yang digunakan pada website tersebut adalah:
@@ -27,9 +27,9 @@ Website Paragraph terdapat pada link berikut :
 
 ## Gallery
 
-![something](@assets/images/screencapture-theparagraphs-org-public-2024-02-18-00_01_16.png)
+![Landing page website Paragraphs](@assets/images/screencapture-theparagraphs-org-public-2024-02-18-00_01_16.png)
 Image 1. Penampakan Landing Page
-![something](@assets/images/screencapture-theparagraphs-org-public-journal-communication-update-2024-02-18-00_03_18.png)
+![Halaman daftar artikel jurnal ilmiah di Paragraphs](@assets/images/screencapture-theparagraphs-org-public-journal-communication-update-2024-02-18-00_03_18.png)
 Image 2. Penampakan List Article
-![something](@assets/images/paragraph-3.png)
+![Halaman detail artikel jurnal di Paragraphs](@assets/images/paragraph-3.png)
 Image 3. Penampakan Article Detail
